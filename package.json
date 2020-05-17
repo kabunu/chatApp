@@ -4,7 +4,7 @@
   "private": true,
   "description": "Simple react js app with socket.io",
   "author": "Aminu Kabunu",
-  "homepage": "https://github.com/kabunu",
+  "homepage": "",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
